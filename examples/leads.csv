@@ -1,0 +1,31 @@
+external_id,company,industry,employees,message_variant,baseline_score,outcome
+soft-01,Northstar Labs,Software,24,Founder note,61,replied
+soft-02,Orbit Stack,Software,31,Founder note,58,interested
+soft-03,Threadline,Software,45,Founder note,63,meeting_booked
+soft-04,Vector Grid,Software,28,Founder note,55,replied
+soft-05,Relay Systems,Software,38,Founder note,67,interested
+soft-06,Current Cloud,Software,22,Founder note,59,replied
+soft-07,Plainview AI,Software,41,Founder note,64,meeting_booked
+soft-08,Signal Forge,Software,35,Founder note,60,replied
+soft-09,Canvas Ops,Software,49,Founder note,57,interested
+soft-10,Harbor Data,Software,26,Founder note,62,replied
+serv-01,Bridge Advisory,Services,112,Efficiency audit,70,disqualified
+serv-02,Oak Consulting,Services,145,Efficiency audit,68,disqualified
+serv-03,Bright Partners,Services,178,Efficiency audit,65,replied
+serv-04,Fieldstone Group,Services,124,Efficiency audit,64,disqualified
+serv-05,North & Co,Services,156,Efficiency audit,62,disqualified
+serv-06,Peak Advisory,Services,189,Efficiency audit,60,disqualified
+serv-07,River Works,Services,138,Efficiency audit,58,replied
+serv-08,Slate Partners,Services,171,Efficiency audit,56,disqualified
+serv-09,Alder Group,Services,119,Efficiency audit,54,disqualified
+serv-10,True North,Services,164,Efficiency audit,52,disqualified
+serv-11,Cedar Advisory,Services,132,Efficiency audit,69,disqualified
+serv-12,Clearpath Co,Services,181,Efficiency audit,67,disqualified
+serv-13,Beacon Works,Services,127,Efficiency audit,66,replied
+serv-14,Granite Group,Services,153,Efficiency audit,63,disqualified
+serv-15,Silverline,Services,197,Efficiency audit,61,disqualified
+serv-16,Juniper Co,Services,116,Efficiency audit,59,disqualified
+serv-17,Summit Works,Services,149,Efficiency audit,57,disqualified
+serv-18,Redwood Group,Services,176,Efficiency audit,55,disqualified
+serv-19,Atlas Advisory,Services,121,Efficiency audit,53,disqualified
+serv-20,Keystone Co,Services,168,Efficiency audit,51,disqualified
